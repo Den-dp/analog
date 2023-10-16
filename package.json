@@ -1,6 +1,6 @@
 {
   "name": "analogjs-platform",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -52,6 +52,7 @@
     "@angular/platform-browser-dynamic": "16.2.2",
     "@angular/platform-server": "16.2.2",
     "@angular/router": "16.2.2",
+    "@astrojs/mdx": "^1.1.0",
     "@astrojs/react": "^3.0.0",
     "@babel/core": "^7.21.8",
     "@mdx-js/react": "1.6.22",
